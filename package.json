@@ -1,7 +1,6 @@
 {
-  "name": "premiumbot-server",
+  "name": "roblox-kakao-bot",
   "version": "1.0.0",
-  "description": "PremiumBot Render Server",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
